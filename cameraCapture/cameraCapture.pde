@@ -21,7 +21,7 @@ void setup() {
     exit();
   }
   else {
-    //println("Available cameras:");
+    println("Number ofAvailable cameras: " + cameras.length);
     //for (int i = 0; i < cameras.length; i++) {
     //  println(cameras[i]); 
     //}
